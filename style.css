@@ -508,6 +508,36 @@ body {
     color: white;
 }
 
+.greeting-card-preview.congrats {
+    background: linear-gradient(135deg, #FF7E5F 0%, #FEB47B 100%);
+}
+
+.greeting-card-preview.congrats .card-front,
+.greeting-card-preview.congrats .card-back {
+    background: linear-gradient(135deg, #FF7E5F 0%, #FEB47B 100%);
+    color: white;
+}
+
+.greeting-card-preview.birthday {
+    background: linear-gradient(145deg, #e2e8f0 0%, #ffffff 25%, #94a3b8 50%, #f1f5f9 75%, #cbd5e1 100%);
+}
+
+.greeting-card-preview.birthday .card-front,
+.greeting-card-preview.birthday .card-back {
+    background: linear-gradient(145deg, #e2e8f0 0%, #ffffff 25%, #94a3b8 50%, #f1f5f9 75%, #cbd5e1 100%);
+    color: #FFD700;
+}
+
+.greeting-card-preview.love {
+    background: linear-gradient(135deg, #FFDDE1 0%, #EE9CA7 100%);
+}
+
+.greeting-card-preview.love .card-front,
+.greeting-card-preview.love .card-back {
+    background: linear-gradient(135deg, #FFDDE1 0%, #EE9CA7 100%);
+    color: white;
+}
+
 .card-emoji {
     font-size: 3rem;
     margin-bottom: 0.5rem;
