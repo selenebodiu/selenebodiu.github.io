@@ -116,7 +116,10 @@ const themeEmojis = {
     tropical: '🌴',
     mountain: '⛰️',
     colorful: '🎨',
-    starry: '⭐'
+    starry: '⭐',
+    congrats: '🎉',
+    birthday: '🎂',
+    love: '💗'
 };
 
 const themeMessages = {
@@ -124,7 +127,10 @@ const themeMessages = {
     tropical: 'Tropical Vibes!',
     mountain: 'Adventure Awaits!',
     colorful: 'Cheers to You!',
-    starry: 'Wishing You Starry Days!'
+    starry: 'Wishing You Starry Days!',
+    congrats: 'Congratulations!',
+    birthday: 'Happy Birthday',
+    love: 'With Love'
 };
 
 // Load cards from localStorage
